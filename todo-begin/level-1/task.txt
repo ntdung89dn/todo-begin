@@ -1,0 +1,5 @@
+======BEGIN WITH HTML============
+You have a index.html file. 
+Task 1: create structure basic html with tag html, head and body.
+Task 2: create title for file index.html with title : TODO TASK 1.
+ - result on task 2 check image task2.png
